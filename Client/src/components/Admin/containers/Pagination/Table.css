@@ -1,0 +1,7 @@
+.table th, .table td {
+  vertical-align: center;
+  max-width: 50px;
+  min-width: 50px;
+  min-height: 30px;
+  max-height: 50px;
+}

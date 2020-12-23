@@ -1,0 +1,772 @@
+{
+  "Language": {
+    "1": "Language"
+  },
+
+  "PostAd": {
+    "1": "Post Ad"
+  },
+  "SubmitFreeAd": {
+    "1": "Submit Free Ad"
+  },
+
+  "Properties": {
+    "1": "Properties"
+  },
+
+  "Cars": {
+    "1": "Cars"
+  },
+
+  "Electronics": {
+    "1": "Electronics"
+  },
+
+  "Furniture": {
+    "1": "Furniture"
+  },
+
+  "Jobs": {
+    "1": "jobs"
+  },
+
+  "Mobiles": {
+    "1": "Mobiles"
+  },
+
+  "Bikes": {
+    "1": "Bikes"
+  },
+
+  "Education": {
+    "1": "Education"
+  },
+
+  "Fashion": {
+    "1": "Fashion"
+  },
+
+  "Pets": {
+    "1": "Pets"
+  },
+
+  "Services": {
+    "1": "Services"
+  },
+
+  "Handicrafts": {
+    "1": "Handicrafts"
+  },
+
+  "Home": {
+    "1": "Home"
+  },
+
+  "Blogs": {
+    "1": "Blogs"
+  },
+
+  "Dashboard": {
+    "1": "Dashboard"
+  },
+
+  "Upload": {
+    "1": "Upload"
+  },
+
+  "Signin": {
+    "1": "Sign in"
+  },
+
+  "Signout": {
+    "1": "Sign out"
+  },
+  "SignUp": {
+    "1": "Sign up"
+  },
+
+  "Search": {
+    "1": "Search by city or price"
+  },
+
+  "Cities": {
+    "1": "Cities"
+  },
+  "City1": {
+    "1": "City:"
+  },
+
+  "Price": {
+    "1": "Price"
+  },
+
+  "IfYouLike": {
+    "1": "If you like one of our users posts, chances are you'll like the rest!"
+  },
+  "NoPostYet": {
+    "1": "No Post Yet..."
+  },
+
+  "SearchByTyping": {
+    "1": "Search ..."
+  },
+
+  "City": {
+    "1": "City"
+  },
+
+  "Date": {
+    "1": "Date"
+  },
+
+  "Title": {
+    "1": "Title"
+  },
+
+  "Description": {
+    "1": "Description"
+  },
+
+  "Phone": {
+    "1": "Phone"
+  },
+  "Phone1": {
+    "1": "Phone:"
+  },
+  "Location": {
+    "1": "Location"
+  },
+  "YourLocation": {
+    "1": "Your Location"
+  },
+  "Favorites": {
+    "1": "Favorites"
+  },
+
+  "PostedOn": {
+    "1": "Posted on:"
+  },
+
+  "Location1": {
+    "1": "Location:"
+  },
+
+  "NoSimilarPostYet": {
+    "1": "No similar post yet..."
+  },
+
+  "SimilarAds": {
+    "1": "Similar Ads"
+  },
+  "Price1": {
+    "1": "Price:"
+  },
+
+  "SelectCity": {
+    "1": "Select City"
+  },
+
+  "SelectCategory": {
+    "1": "Select Category"
+  },
+
+  "PostFreeAd": {
+    "1": "Post Free Ad"
+  },
+
+  "Submit": {
+    "1": "Submit"
+  },
+
+  "Sold": {
+    "1": "Sold"
+  },
+
+  "View": {
+    "1": "View"
+  },
+
+  "AddToFavorite": {
+    "1": "Add to favorite"
+  },
+
+  "LogIn": {
+    "1": "Log in"
+  },
+
+  "EnterYourEmail": {
+    "1": "Enter Your Email"
+  },
+
+  "EnterYourPassword": {
+    "1": "Enter your Password"
+  },
+  "EnterYourNewPassword": {
+    "1": "Enter your New Password"
+  },
+
+  "PhoneNumberRequire":{
+    "1":"Phone number is required"
+  },
+
+  "EmailRequire": {
+    "1": "Email is required"
+  },
+
+  "PasswordRequire": {
+    "1": "Password is required"
+  },
+
+  "EmailIsInvalid": {
+    "1": "Email is invalid"
+  },
+  "PasswordCharacters": {
+    "1": "Password must be at least 6 characters"
+  },
+  "PasswordMatch": {
+    "1": "Passwords must match"
+  },
+
+  "RememberMe": {
+    "1": "Remember me"
+  },
+
+  "ForgotPassword": {
+    "1": "forgot password"
+  },
+
+  "RegisterNow": {
+    "1": "Register now!"
+  },
+
+  "Name": {
+    "1": "Name"
+  },
+
+  "LastName": {
+    "1": "Last Name"
+  },
+
+  "Email": {
+    "1": "Email"
+  },
+
+  "Password": {
+    "1": "Password"
+  },
+
+  "Confirm": {
+    "1": "Confirm"
+  },
+
+  "EnterYourName": {
+    "1": "Enter your name"
+  },
+  "EnterYourLastName":{
+    "1":"Enter your last name"
+  },
+
+  "LastnameRequire": {
+    "1": "Last name is required"
+  },
+
+  "EnterYourConfirmPassword": {
+    "1": "Confirm Password is required"
+  },
+
+  "NameRequire": {
+    "1": "Name is required"
+  },
+
+  "ConfirmPasswordRequire": {
+    "1": "Confirm password is required"
+  },
+
+  "NewPasswordRequire": {
+    "1": "New password is required"
+  },
+
+  "OldPasswordRequire": {
+    "1": "Old password is required"
+  },
+
+  "ConfirmNewPasswordRequire": {
+    "1": "Please confirm your new password"
+  },
+  "CommentRequire":{
+    "1":"Please leave a comment"
+  },
+
+  "About": {
+    "1": "About"
+  },
+
+  "Information": {
+    "1": "Information"
+  },
+
+  "ContactUs": {
+    "1": "Contact Us"
+  },
+
+  "ReadMore": {
+    "1": "Read more>>"
+  },
+
+  "AboutUs": {
+    "1": "About Us"
+  },
+
+  "PrivacyPolicy": {
+    "1": "Privacy Policy"
+  },
+
+  "TermofUse": {
+    "1": "Terms of Use"
+  },
+
+  "Career": {
+    "1": "Careers"
+  },
+  "Feedback": {
+    "1": "Feedback"
+  },
+
+  "ResetPassword": {
+    "1": "Reset Password!"
+  },
+  "ResetEmail": {
+    "1": "Email"
+  },
+
+  "AdDetails": {
+    "1": "Ad Details"
+  },
+  "ShareIt": {
+    "1": "Tell a friend"
+  },
+  "Category": {
+    "1": "Category"
+  },
+  "ReportThisAd": {
+    "1": "Report this Ad"
+  },
+  "ReportAd": {
+    "1": "Report Ad"
+  },
+  "ThankYouForYourFeedback": {
+    "1": "Thank you for your feedback."
+  },
+  "Remove": {
+    "1": "Remove"
+  },
+  "AdImage": {
+    "1": "Ad Image"
+  },
+  "SellerPhone": {
+    "1": "Seller Phone"
+  },
+  "AdPrice": {
+    "1": "Ad Price"
+  },
+  "RemoveFromFavorite": {
+    "1": "Remove from Favorite"
+  },
+  "FavoriteAds": {
+    "1": "Favorite Ads"
+  },
+  "NoItemsInTheFavoriteList": {
+    "1": "No Items In the Favorite List"
+  },
+
+  "WelcomeToBazarOnline": {
+    "1": "Welcome to BazarOnline"
+  },
+  "YourTotalAds": {
+    "1": "Your Total Ads"
+  },
+  "LastUpdated5MinsAgo": {
+    "1": "Last updated 1 mins ago"
+  },
+  "Notifications": {
+    "1": "Notifications"
+  },
+  "NoNewNotification": {
+    "1": "No new notification"
+  },
+  "LastUpdated3MinsAgo": {
+    "1": "Last updated 3 mins ago"
+  },
+  "YourAdsList": {
+    "1": "My Ads List"
+  },
+  "Image": {
+    "1": "Image"
+  },
+  "AdName": {
+    "1": "Ad Name"
+  },
+  "Status": {
+    "1": "Status"
+  },
+  "Action": {
+    "1": "Action"
+  },
+  "PleaseWait": {
+    "1": "Please wait..."
+  },
+  "EditProfile": {
+    "1": "Edit Profile"
+  },
+  "EditProfileDetails": {
+    "1": "Edit Profile Details"
+  },
+  "UpdateProfile": {
+    "1": "Update Profile"
+  },
+  "Close": {
+    "1": "Close"
+  },
+  "ChangeDetails": {
+    "1": "Change Details"
+  },
+  "EditAd": {
+    "1": "Edit Ad"
+  },
+  "UpdateAd": {
+    "1": "Update Ad"
+  },
+  "CheckYourEmailPasswordAgain": {
+    "1": "Check out your email or Password again"
+  },
+  "LoginWithSocialAccounts": {
+    "1": " or log in With Social accounts"
+  },
+  "Welcome": {
+    "1": "Welcome"
+  },
+  "ToBazarOnline": {
+    "1": "to BazarOnline"
+  },
+  "FreeMembership": {
+    "1": "Free Membership"
+  },
+  "MemberSince": {
+    "1": "Member Since:"
+  },
+  "AddedToFavorite": {
+    "1": "Added to Favorite"
+  },
+  "LoadMore": {
+    "1": "Load More"
+  },
+  "FeedbackForm":{
+    "1":"Feedback Form"
+  },
+  "PhoneNumber":{
+    "1":"Phone Number"
+  },
+  "EnterYourPhoneNumber":{
+    "1":"Enter your Phone Number"
+  },
+  "Comment":{
+    "1":"Comment"
+  },
+  "WriteYourComment":{
+    "1":"Write your Comment here"
+  },
+  "ReachUs":{
+    "1":"Reach Us"
+  },
+  "privacyPolicyParag":{
+    "1":"Our Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our website and services."
+  },
+  "PersonalDataProtection":{
+    "1":"Personal Data Protection"
+  },
+  "PersonalDataProtectionParag":{
+    "1":"is responsible for the collection, use, and retention of personal information in the sense of the Afghanistan Personal Data Protection Acts and laws and in accordance with applicable standards. "
+  },
+  "TypesofInformationCollected":{
+    "1":"Types of Information Collected"
+  },
+  "TypesofInformationCollectedParag":{
+    "1":"You can generally visit the Site without revealing any personally identifiable information about yourself, however, you do need an account to post listings, or respond to listings.If you choose to create an account and/or use our Services, we may collect personally identifiable information that you submit such as your name, contact data (address, email address, phone number) and other similar information. Likewise, we may also collect additional personally identifiable information that you voluntarily include in your listings. The information that you provide when you post a listing is displayed in public areas and is available to all visitors. Any information that is disclosed in these areas becomes public information, so please exercise caution. We also provide you with the option to submit pictures and a description of your item or service. When you post your listing on the Site, the description and pictures are displayed on the site and is accessible to visitors on the Site. If you provide personal information to a buyer or seller (by contacting them directly through the phone number provided), we have no control over how that information might be used by that individual. "
+  },
+  "SharingInformationWithThirdParties":{
+    "1":"Sharing Information with Third Parties"
+  },
+  "SharingInformationWithThirdPartiesParag1":{
+    "1":" The Site contains links to other websites on the Internet. Please be aware that we are not responsible for the information collection and use and privacy practices of such other websites and third parties. We encourage you to be aware when you leave the Site and to read the privacy statements of each and every other website that may collect your personally identifiable information. This privacy statement applies solely to information collected by us from the Site. We may use third party companies to serve advertisements in future when you visit the Site. These companies may use information about your visits to the Site in order to provide advertisements about goods and services that may be of interest to you." 
+  },
+  "SharingInformationWithThirdPartiesParag1-1":{
+   "1":"In the course of serving advertisements to the Site, these companies may place or recognize a unique cookie on your computer or use other technologies such as pixel tags. Our privacy policy does not cover any use of information that a third-party ad-serving company may collect from you. These companies have their own policies as to record keeping and data retention. If you would like more information about this practice, or would like to know your choices about not having this information used by advertising companies, please click here:"
+  
+  },
+  "SharingInformationWithThirdPartiesParag2":{
+    "1":" We may use Google Analytics on the Site in future; information on how this collects and processes data can be found at:"
+  },
+  "SharingInformationWithThirdPartiesParag2-1":{
+    "1":"In addition, we have enabled certain Google Analytics advertising features that utilize cookies. These features enable us to obtain certain demographic and interests data for visitors to the Site. You can opt out of these features by visiting"
+  },
+  "SharingInformationWithThirdPartiesParag3":{
+    "1":"We may use Google AdSense remarketing to trigger advertisements across the Internet. AdSense remarketing will display relevant ads tailored to you based on what parts of the Site you have viewed by placing a cookie on your machine. The cookie is used to say 'This person visited this page, so show them ads relating to that page.' Google AdSense remarketing allows us to tailor our marketing to better suit your needs and only display ads that are relevant to you. If you do not wish to participate in our Google AdSense remarketing, you can opt out by visiting"
+  },
+  "SharingInformationWithThirdPartiesParag4":{
+    "1":"In addition, we may in future enter into alliances, partnerships or other business arrangements with third parties who may be given access to personal information including your name, telephone number and email for the purpose of providing you information regarding certain products and services. When you make an inquiry about certain listings on the Site (e.g., used cars listings from dealers), you are expressly choosing to, and opting-in to, have us transfer your personally identifiable information to our third party service partners, and for such third party service partners to provide your personally identifiable information to other businesses who provide products or services that match your inquiry. The third party service partners may contact you regarding your inquiry."
+  },
+  "CertainDisclosures":{
+    "1":"Certain Disclosures"
+  },
+  "CertainDisclosuresParag":{
+    "1":"We may disclose your personal information if required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law or comply with legal process served on us or affiliated parties; (b) protect and defend our rights and property, our site, the users of our site, and/or our affiliated parties; (c) act under circumstances to protect the safety of users of our site, us, or third parties."
+  },
+  "YourConsent":{
+    "1":"Your Consent"
+  },
+  "YourConsentParag":{
+    "1":"By using the Site you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on the Site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. If you have any query, feel free to contact us."
+  },
+  "AboutBazarOnline":{
+    "1":"About BazarOnline"
+  },
+  "AboutBazarOnlineparag1":{
+    "1":"is an online marketplace and a free advertising platform. We offer sustainable, reliable, and simplified services for selling and buying different items online through classified ads. We are experienced, reliable, and trusted service providers. We allow you to sell and buy your desired items quickly. Imagine you are just an ad away from selling or buying your favorite product!"
+  },
+  "AboutBazarOnlineparag2":{
+    "1":"We at"
+  },
+  "AboutBazarOnlineparag2-1":{
+    "1":"are dedicated to provide a wonderful platform where buyers and sellers can interact with each other. You can sell your cars, property, electronics, pets, furniture, and other stuffs online by just posting classified ads free of charge. And we don’t stop just here. At BazarOnline, we are also serving as a platform where you can seek jobs."
+  },
+  "AboutBazarOnlineparag3":{
+    "1":"only provides the platform but does not directly participate in, nor is it involved in any sort of transactions, all negotiations would be done privately between the buyer and seller. Hence, connect with BazarOnline by signing up for free and start selling and buying and seeking and offering jobs utilizing our free ad posting services."
+  },
+  "SellAnythingonBazarOnline":{
+    "1":"Sell Anything on BazarOnline"
+  },
+  "BazarOnline":{
+    "1":"BazarOnline"
+  },
+  "WeAreHere":{
+    "1":"We are here!"
+  },
+  "AtBazarOnlineWeAreReadyTo":{
+    "1":"At BazarOnline, we are ready to"
+  },
+  "ServeYouinCaseofQuestions":{
+    "1":"serve you in case of questions"
+  },
+  "AndQueries":{
+    "1":"and queries."
+  },
+  "ReadMoreParag":{
+    "1":"BazarOnline is an online marketplace and a free advertising platform. We offer sustainable, reliable, and simplified services for selling and..."
+  },
+  "SubmittedSuccessfully":{
+    "1":"Report Submitted Successfully"
+  },
+  "PleaseExplainReport":{
+    "1":"Please explain why you want to Report this ad"
+  },
+  "InvalidPhone":{
+    "1":"Invalid Phone"
+  },
+  "InvalidEmail":{
+    "1":"Invalid Email"
+  },
+  "FakeImage":{
+    "1":"Fake Image"
+  },
+  "Spam":{
+    "1":"Spam"
+  },
+  "Other":{
+    "1":"Other"
+  },
+  "ProvideReason":{
+    "1":"Provide Reason"
+  },
+
+  "ChangeName":{
+    "1":"Change Name"
+  },
+  "ChangeEmail":{
+    "1":"Change Email"
+  },
+
+  "ChangePassword":{
+    "1":"Change Password"
+  },
+  "OldPassword":{
+    "1":"Old Password"
+  },
+
+  "NewPassword":{
+    "1":"New Password"
+  },
+  "ConfirmNewPassword":{
+    "1":"Confirm New Password"
+  },
+  "PleaseInputTitle":{
+    "1":"Please input Title!"
+  },
+  "PleaseInputDescription":{
+    "1":"Please input Description!"
+  },
+  "PleaseInputPrice":{
+    "1":"Please input Price!"
+  },
+  "PleaseInputPhone":{
+    "1":"Please input Phone!"
+  },
+  "PhoneNumberShouldBeCorrect":{
+    "1":"Phone Number should be correct!"
+  },
+  "PleaseInputLocation":{
+    "1":"Please input Location!"
+  },
+  "PleaseFillAlltheFieldsFirst":{
+    "1":"Please fill all the fields first"
+  },
+
+
+"TermofUseParag":{
+  "1":"Introduction"
+},
+
+"TermofUseParag1":{
+  "1":"Welcome to"
+},
+"TermofUseParag1-1":{
+  "1":"These Terms of Service (“Terms”, “Terms of Service”) govern your use of our website located at BazarOnline.af (together or individually “Service”) operated by BazarOnline."
+},
+"TermofUseParag1-2":{
+  "1":"Our Privacy Policy also governs your use of our Service and explains how we collect, safeguard and disclose information that results from your use of our web pages."
+},
+"TermofUseParag1-3":{
+  "1":"Your agreement with us includes these Terms and our Privacy Policy (“Agreements”). You acknowledge that you have read and understood Agreements, and agree to be bound of them."
+},
+"TermofUseParag1-4":{
+  "1":"If you do not agree with (or cannot comply with) Agreements, then you may not use the Service, but please let us know by emailing at bazaronline.afg@gmail.com so we can try to find a solution. These Terms apply to all visitors, users and others who wish to access or use Service."
+},
+"TermofUseParag2":{
+  "1":"Communications"
+},
+"TermofUseParag2-1":{
+  "1":"By using our Service, you agree to subscribe to newsletters, marketing or promotional materials and other information we may send. However, you may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or by emailing at"
+},
+"TermofUseParag3":{
+  "1":"Content"
+},
+"TermofUseParag3-1":{
+  "1":"Our Service allows you to post, link, store, share and otherwise make available certain information, text, graphics material (“Content”). You are responsible for Content that you post on or through Service, including its legality, reliability, and appropriateness."
+},
+
+"TermofUseParag3-2":{
+  "1":"By posting Content on or through Service, You represent and warrant that: (i) Content is yours (you own it) and/or you have the right to use it and the right to grant us the rights and license as provided in these Terms, and (ii) that the posting of your Content on or through Service does not violate the privacy rights, publicity rights, copyrights, contract rights or any other rights of any person or entity. We reserve the right to terminate the account of anyone found to be infringing on a copyright."
+},
+"TermofUseParag3-3":{
+  "1":"You retain any and all of your rights to any Content you submit, post or display on or through Service and you are responsible for protecting those rights. We take no responsibility and assume no liability for Content you or any third party posts on or through Service. However, by posting Content using Service you grant us the right and license to use, modify, publicly perform, publicly display, reproduce, and distribute such Content on and through Service. You agree that this license includes the right for us to make your Content available to other users of Service, who may also use your Content subject to these Terms."
+},
+
+"TermofUseParag3-4":{
+  "1":"has the right but not the obligation to monitor and edit all Content provided by users."
+},
+
+"TermofUseParag4":{
+  "1":"Error Reporting and Feedback"
+},
+
+"TermofUseParag4-1":{
+  "1":"You may provide us either directly at bazaronline.afg@gmail.com or via third party sites and tools with information and feedback concerning errors, suggestions for improvements, ideas, problems, complaints, and other matters related to our Service (“Feedback”). You acknowledge and agree that: (i) you shall not retain, acquire or assert any intellectual property right or other right, title or interest in or to the Feedback; (ii) Company may have development ideas similar to the Feedback; (iii) Feedback does not contain confidential information or proprietary information from you or any third party; and (iv) Company is not under any obligation of confidentiality with respect to the Feedback. In the event the transfer of the ownership to the Feedback is not possible due to applicable mandatory laws, you grant Company and its affiliates an exclusive, transferable, irrevocable, free-of-charge, sub-licensable, unlimited and perpetual right to use (including copy, modify, create derivative works, publish, distribute and commercialize) Feedback in any manner and for any purpose."
+},
+
+"TermofUseParag5":{
+  "1":"Links To Other Web Sites"
+},
+"TermofUseParag5-1":{
+  "1":"Our Service may contain links to third party web sites or services that are not owned or controlled by BazarOnline."
+},
+
+"TermofUseParag5-2":{
+  "1":"BazarOnline has no control over, and assumes no responsibility for the content, privacy policies, or practices of any third party web sites or services. We do not warrant the offerings of any of these entities/individuals or their websites."
+},
+
+
+
+"TermofUseParag5-4":{
+  "1":"WE STRONGLY ADVISE YOU TO READ THE TERMS OF SERVICE AND PRIVACY POLICIES OF ANY THIRD PARTY WEB SITES OR SERVICES THAT YOU VISIT."
+},
+
+
+"TermofUseParag6":{
+  "1":"Amendments To Terms"
+},
+
+"TermofUseParag6-1":{
+  "1":"We may amend Terms at any time by posting the amended terms on this site. It is your responsibility to review these Terms periodically."
+},
+
+"TermofUseParag6-2":{
+  "1":"Your continued use of the Platform following the posting of revised Terms means that you accept and agree to the changes. You are expected to check this page frequently so you are aware of any changes, as they are binding on you."
+},
+
+
+"TermofUseParag6-3":{
+  "1":"By continuing to access or use our Service after any revisions become effective, you agree to be bound by the revised terms. If you do not agree to the new terms, you are no longer authorized to use Service."
+},
+
+
+"TermofUseParag7":{
+  "1":"Acknowledgement"
+},
+
+"TermofUseParag7-1":{
+  "1":"BY USING SERVICE OR OTHER SERVICES PROVIDED BY US, YOU ACKNOWLEDGE THAT YOU HAVE READ THESE TERMS OF SERVICE AND AGREE TO BE BOUND BY THEM."
+},
+
+"TermofUseParag8":{
+  "1":"Contact Us"
+},
+"TermofUseParag8-1":{
+  "1":"Please send your feedback, comments, requests for technical support by email: bazaronline.afg@gmail.com."
+},
+
+"CareerParag1":{
+  "1":"We Are Always Looking To Add To Our Renowned In-House Team"
+},
+
+"CareerParag2":{
+  "1":"HOW TO APPLY ?"
+},
+"CareerParag2-1":{
+  "1":"At"
+},
+"CareerParag2-2":{
+  "1":" International, we search for the ideal people to fill our vacant positions. We respect experience and talents. We always have positions for which we look for the best fits. If you are interested in becoming a part of BazarOnline International, we welcome you to apply for jobs by just sending us your latest CV to "
+},
+"CareerParag2-3":{
+  "1":"bazaronline.afg@gmail.com"
+},
+
+"CareerParag3":{
+  "1":"WHY BAZARONLINE?"
+},
+
+"CareerParag3-1":{
+  "1":"is the company having complete online platform for selling and buying in Afghanistan. Providing a rewarding, challenging environment to candidates. We have an ideal workplace where we assist our workers and employees and treat them like our family members."
+}
+
+
+
+
+
+
+
+
+
+
+ 
+
+}

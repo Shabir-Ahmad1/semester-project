@@ -1,0 +1,22 @@
+.heroContent {
+  max-width: 900px;
+  margin: 0 auto;
+  padding-bottom: 4px;
+  color: green;
+  /* background-color: aqua; */
+}
+.conatiner-background {
+  padding: 2% 0;
+  background-color: #fafafa;
+}
+
+.CardContent {
+  padding: "2px";
+  transition: all 0.5s ease-out;
+}
+.CardContent:hover {
+  background: rgb(32, 189, 32);
+}
+.catagory-grid {
+  padding-bottom: 4%;
+}

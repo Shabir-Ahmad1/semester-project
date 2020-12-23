@@ -1,0 +1,64 @@
+@import '~antd/dist/antd.css';
+
+.ant-descriptions-bordered .ant-descriptions-item-content{
+    border-right: 1px solid #b3b1b1;
+    background-color: white;
+    height: 40px;
+    padding: 0px 5px;
+}
+
+.ant-descriptions-bordered .ant-descriptions-item-label {
+    padding: 0px 5px;
+    border-right: 1px solid #b3b1b1;
+    background-color: rgb(245, 240, 240);
+}
+
+.btnReportAd{
+    background-color: maroon;
+    border-color: maroon;
+    color: white;
+}
+
+.btnAddtoFavorite{
+    background-color: teal;
+    border-color: teal;
+    color: white;
+}
+
+.ant-modal-header{
+    background-color: #39405b;
+}
+.ant-modal-title{
+    color: white;
+}
+.ant-modal-close-icon{
+    color: white;
+}
+
+
+ .ant-btn-primary:focus {
+    color: #fff;
+    background-color: teal;
+    border-color: teal;
+}
+.ant-btn-primary:hover{
+    color: #fff;
+    background-color: rgb(9, 87, 87);
+    border-color: rgb(9, 87, 87); 
+}
+
+.ant-btn-danger:focus {
+    color: #fff;
+    background-color: maroon;
+    border-color: maroon;
+}
+
+.ant-btn-danger:hover{
+    color: #fff;
+    background-color: rgb(99, 5, 5);
+    border-color: rgb(99, 5, 5);
+}
+
+
+
+

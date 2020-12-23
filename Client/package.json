@@ -1,0 +1,91 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@ant-design/icons": "^4.0.5",
+    "@fortawesome/fontawesome-svg-core": "^1.2.27",
+    "@fortawesome/free-brands-svg-icons": "^5.12.1",
+    "@fortawesome/free-solid-svg-icons": "^5.12.1",
+    "@fortawesome/react-fontawesome": "^0.1.8",
+    "@material-ui/core": "^4.9.5",
+    "admin-bro-mongoose": "^0.5.0",
+    "admin-on-rest": "^1.4.1",
+    "antd": "^3.24.1",
+    "aor-loopback": "^1.3.2",
+    "axios": "^0.18.0",
+    "bootstrap": "^4.4.1",
+    "components": "^0.1.0",
+    "core-js": "^3.6.5",
+    "formik": "^1.5.8",
+    "helpers": "0.0.6",
+    "i18n": "^0.8.6",
+    "i18n-react": "^0.7.0",
+    "i18next": "^19.4.1",
+    "i18next-browser-languagedetector": "^4.0.2",
+    "i18next-xhr-backend": "^3.2.2",
+    "icons": "^1.0.0",
+    "material-ui": "^0.20.2",
+    "mdbreact": "^4.25.5",
+    "moment": "^2.24.0",
+    "node-sass": "^4.13.1",
+    "prop-types": "^15.7.2",
+    "ra-data-json-server": "^3.4.0",
+    "ra-data-simple-rest": "^3.3.2",
+    "react": "^16.8.6",
+    "react-admin": "^3.4.0",
+    "react-admin-loopback": "^1.0.6",
+    "react-bootstrap": "^1.0.0-beta.17",
+    "react-count-to": "^0.12.0",
+    "react-dom": "^16.8.6",
+    "react-dropzone": "^10.2.1",
+    "react-event-timeline": "^1.6.3",
+    "react-fontawesome": "^1.7.1",
+    "react-ga": "^2.7.0",
+    "react-i18next": "^11.3.4",
+    "react-icons": "^3.7.0",
+    "react-image-gallery": "^1.0.3",
+    "react-owl-carousel": "^2.3.1",
+    "react-paypal-express-checkout": "^1.0.5",
+    "react-perfect-scrollbar": "^1.5.8",
+    "react-redux": "^7.1.0-rc.1",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "^3.4.1",
+    "react-share": "^4.1.0",
+    "react-simple-image-slider": "^1.0.3",
+    "react-slick": "^0.25.2",
+    "react-toastify": "^5.5.0",
+    "reactstrap": "^8.4.1",
+    "redux": "^4.0.0",
+    "redux-form": "^8.2.6",
+    "redux-promise": "^0.6.0",
+    "redux-thunk": "^2.3.0",
+    "slick-carousel": "^1.8.1",
+    "socket.io-client": "^2.2.0",
+    "yup": "^0.27.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "http-proxy-middleware": "^0.19.1"
+  }
+}
